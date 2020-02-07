@@ -10,7 +10,7 @@
     
     <groupId>com.pragmaticobjects.oo.meta</groupId>
     <artifactId>oo-meta</artifactId>
-    <version>0.0.0-SNAPSHOT</version>
+    <version>0.0.2</version>
     <packaging>pom</packaging>
     
     <properties>
